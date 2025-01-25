@@ -1,6 +1,5 @@
 # Blog Generation with LLama-2-7B Model
 
-This project uses Streamlit and the LLama-2-7B model to generate blogs based on a provided topic, writing style, and desired word count. It allows users to interact with the model, view previous requests, and see analytics on blog generation history.
 
 ## Project Overview
 
