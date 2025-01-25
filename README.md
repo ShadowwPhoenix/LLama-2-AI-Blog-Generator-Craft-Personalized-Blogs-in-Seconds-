@@ -20,8 +20,6 @@ To run the project, you'll need to have the following dependencies:
 - Streamlit
 - langchain
 - langchain_community
-- os
-- time
 
 ## Install Dependencies
 
