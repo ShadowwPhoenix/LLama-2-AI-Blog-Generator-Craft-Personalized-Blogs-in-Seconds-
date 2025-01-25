@@ -19,7 +19,7 @@ To run the project, you'll need to have the following dependencies:
 - Python 3.x
 - Streamlit
 - langchain
-- langchain_community
+
 
 ## Install Dependencies
 
