@@ -33,7 +33,7 @@ Additionally, you must download the LLama-2-7B model file and place it in the mo
 ## How to Run
 
 ### Set Up the Model:
-1. Download the LLama-2-7B model from your preferred source.
+1. Download the LLaMA-2-7B model from [TheBloke’s Hugging Face repository](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML) or your preferred source.
 2. Place the model file in a directory named `model/` in the same directory as your Python script.
 
 ### Run the Streamlit App:
